@@ -17,7 +17,6 @@ knit        : slidify::knit2slides
 2. from 2001 through 2014 broken down by year, month and series_id.
 3. Source: http://download.bls.gov/pub/time.series/jt/jt.data.3.Hires
 
-
 ---
 ## DATA Structure
 
@@ -50,12 +49,9 @@ To run applications click on link: https://dnrl1.shinyapps.io/dev_data_prod
 Make sure you hit the <<SUBMIT BUTTON>>!!!
 
 --- 
-```{r echo=TRUE}
 
-```
 
-```{r, echo=FALSE}
 
-```
+
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
