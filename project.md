@@ -1,14 +1,15 @@
 ---
-title       : Developing Data Products
-subtitle    : Hiring from Bureau of Labor Statisitcs
-author      : DNRL
-job         : Data specialist
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
-knit        : slidify::knit2slides
+title: "Developing Data Products"
+author: "DNRL"
+highlighter: highlight.js
+output: html_document
+job: Data specialist
+knit: slidify::knit2slides
+mode: selfcontained
+hitheme: tomorrow
+subtitle: Hiring from Bureau of Labor Statisitcs
+framework: io2012
+widgets: []
 ---
 
 ## Data being displayed
@@ -55,3 +56,4 @@ Make sure you hit the <<SUBMIT BUTTON>>!!!
 
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
